@@ -5,13 +5,15 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<h5>Please remove the package name from the source code file before compiling or running the code in environment</h5>
+<h4>Please remove the package name from the source code file before compiling or running the code in environment</h5>
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-<mark>Note:the code is being written with respect to Java 8.Hence I recommend at least Java version 8 would be required to compile and run the source code in the repo.<mark>
+<p>
+<mark style="color:yellow">Note:the code is being written with respect to Java 8.Hence I recommend at least Java version 8 would be required to compile and run the source code in the repo.</mark>
+  </p>
 &nbsp;
 &nbsp;
 &nbsp;
